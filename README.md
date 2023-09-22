@@ -29,7 +29,7 @@ June 2022-Present
 ## 📫 Contact info
 Lets chat
 
-Website: [https://landiasteve.wixsite.com/website] (Steve Babu wixsite)
+Website: [https://landiasteve.wixsite.com/website] 
 
 
 <!--
