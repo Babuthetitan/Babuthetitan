@@ -5,7 +5,7 @@ Greetings!!!It appears you have stumbled across my GitHub profile. Fell free to 
 
 ## 😄 About me
 
-I am a passionate audio programmer||Technical sound designer interested in technical and creative game audio workflows. I love video games and am currently pursuing a career in videogame audio programming. My areas of expertise include:
+I am a passionate audio programmer||Gameplay programmer interested in technical and creative game development and audio workflows. I love video games and I am currently pursuing a career in videogame audio programming. My areas of expertise include:
 
 -**Programming languages:** [C++],[C#]
 -**Game Engines:** Unity, Unreal Engine
