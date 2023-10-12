@@ -31,18 +31,14 @@ Lets chat
 
 Website: [https://landiasteve.wixsite.com/website] 
 
+Check out my repos and see these cool games I am working on:
 
-<!--
-**Babuthetitan/Babuthetitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/Babuthetitan/Babuthetitan/assets/105855282/f02071b3-1a98-4561-abeb-7d7e50a8d9b0
+
+
+
+![Cute Jumper Demo](https://github.com/Babuthetitan/Babuthetitan/assets/105855282/a6e7250e-f44a-4f95-bfc2-0e93f77b15c9)
+
+
