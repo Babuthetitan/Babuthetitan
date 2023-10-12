@@ -31,7 +31,8 @@ Lets chat
 
 Website: [https://landiasteve.wixsite.com/website] 
 
-Check out my repos and see these cool games I am working on:
+## Demos:
+Check out my repos to see the cool stuff I am working/ have worked on
 
 
 
@@ -40,5 +41,10 @@ https://github.com/Babuthetitan/Babuthetitan/assets/105855282/f02071b3-1a98-4561
 
 
 ![Cute Jumper Demo](https://github.com/Babuthetitan/Babuthetitan/assets/105855282/a6e7250e-f44a-4f95-bfc2-0e93f77b15c9)
+
+
+
+https://github.com/Babuthetitan/Babuthetitan/assets/105855282/6f1140bb-52b4-44cb-874f-ecd6db0d3bb4
+
 
 
