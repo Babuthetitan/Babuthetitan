@@ -1,5 +1,7 @@
 ### Hello there 👋
 # Welcome to my GitHub profile
+![Steve Babu-photo](https://github.com/Babuthetitan/Babuthetitan/assets/105855282/c68fec5d-154a-49a7-ac98-60481f987095)
+
 
 Greetings!!!It appears you have stumbled across my GitHub profile. Fell free to check out my portfolio and cool projects I have worked on.
 
@@ -30,6 +32,8 @@ June 2022-Present
 Lets chat
 
 Website: [https://landiasteve.wixsite.com/website] 
+My CV: [Stephen Babu-junior audio programmer.pdf](https://github.com/Babuthetitan/Babuthetitan/files/12882040/Stephen.Babu-junior.audio.programmer.pdf)
+
 
 ## Demos:
 Check out my repos to see the cool stuff I am working/ have worked on
