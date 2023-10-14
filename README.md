@@ -1,6 +1,5 @@
 ### Hello there 👋
 # Welcome to my GitHub profile
-![Steve Babu-photo](https://github.com/Babuthetitan/Babuthetitan/assets/105855282/c68fec5d-154a-49a7-ac98-60481f987095)
 
 
 Greetings!!!It appears you have stumbled across my GitHub profile. Fell free to check out my portfolio and cool projects I have worked on.
