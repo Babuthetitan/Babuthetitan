@@ -31,7 +31,7 @@ June 2022-Present
 Lets chat
 
 Website: [https://landiasteve.wixsite.com/website] 
-My CV: [Stephen Babu-junior audio programmer.pdf](https://github.com/Babuthetitan/Babuthetitan/files/12882040/Stephen.Babu-junior.audio.programmer.pdf)
+My CV: [Stephen Babu- Junior Audio Programmer.pdf](https://github.com/Babuthetitan/Babuthetitan/files/14432204/Stephen.Babu-.Junior.Audio.Programmer.pdf)
 
 
 ## Demos:
