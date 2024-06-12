@@ -6,7 +6,7 @@ Greetings!!!It appears you have stumbled across my GitHub profile. Fell free to 
 
 ## 😄 About me
 
-I am a passionate audio programmer||Gameplay programmer interested in technical and creative game development and audio workflows. I love video games and I am currently pursuing a career in videogame audio programming. My areas of expertise include:
+I am a passionate Gameplay programmer interested in technical and creative game development and audio workflows. I love video games and I am currently pursuing a career in videogame. My areas of expertise include:
 
 -**Programming languages:** [C++],[C#]
 -**Game Engines:** Unity, Unreal Engine
@@ -15,6 +15,11 @@ I am a passionate audio programmer||Gameplay programmer interested in technical 
 -**Frameworks,libraries and SDKs:** Playbuffer framework, & Wwise software development kit
 
 ## 🔭 Experience
+
+June 2022-Present
+• Founder & Programmer • Old Man Studios
+(Unity development, Scripting, gameplay architecture) 
+
 August 2023– October 2023
 • Game programmer intern• Sumo digital
 (C++, gameplay architecture, programmer workflows)
@@ -23,15 +28,11 @@ August 2023- Present
 •Technical Sound Designer• Installation 01
 (C++, Unreal Engine, Audio design, Blueprints)
 
-June 2022-Present
-• Project Lead & Technical audio designer • Fallen Echo Indie project
-(Sound design, Wwise implementation, custom audio scripting) 
-
 ## 📫 Contact info
 Lets chat
 
 Website: [https://landiasteve.wixsite.com/website] 
-My CV: [Stephen Babu- Junior Audio Programmer.pdf](https://github.com/Babuthetitan/Babuthetitan/files/14432204/Stephen.Babu-.Junior.Audio.Programmer.pdf)
+My CV: [Stephen Babu CV.pdf](https://github.com/user-attachments/files/15798879/Stephen.Babu.CV.pdf)
 
 
 ## Demos:
